@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "myApp",
-	"webDir": "dist",
-	"bundledWebRuntime": false
+  "appId": "com.nojeda.myapp",
+  "appName": "my.app",
+  "webDir": "dist",
+  "bundledWebRuntime": false
 }

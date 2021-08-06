@@ -1,0 +1,6 @@
+{
+	"appId": "com.nojeda.myapp",
+	"appName": "my.app",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
