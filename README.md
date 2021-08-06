@@ -1,7 +1,8 @@
 ## Vue Ionic + Capacitor Android Base Project
-Base project using this tecnologies to easily create and Web/Android app. It also as installed geolocation plugin of Capacitor, to test Android
+Base project using this tecnologies to easily create and Web/Android app. It also as installed [geolocation](https://capacitorjs.com/docs/apis/geolocation) plugin of Capacitor, to test Android
 native functions and permissions.
 
+---
 How it was created:
 
 ```
@@ -15,7 +16,7 @@ npx cap add android
 npm install @capacitor/geolocation # Optional
 npx cap sync
 ```
-
+---
 How to install this project:
 
 ```
