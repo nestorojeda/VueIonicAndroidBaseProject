@@ -8,7 +8,7 @@ How it was created:
 npm install -g @ionic/cli
 ionic start myApp tabs --type vue
 npm install @capacitor/core @capacitor/cli
-npx cap init [name_of_the_app] [com.example.example] --web-dir=dist
+npx cap init my.app com.nojeda.myapp --web-dir=dist
 npm run build
 npm i @capacitor/ios @capacitor/android
 npx cap add android
